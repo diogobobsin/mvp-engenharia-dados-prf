@@ -53,6 +53,10 @@ PRF + ANBIMA → Bronze → Silver → Gold → Análises
 
 `notebooks/` — notebook contendo o pipeline, documentação e análises do projeto.
 
+### Visualizações
+
+O notebook foi desenvolvido e executado originalmente no Databricks. Algumas visualizações foram produzidas utilizando os recursos gráficos nativos da plataforma e, por esse motivo, podem não ser renderizadas pelo visualizador de notebooks do GitHub. Os dados utilizados nessas visualizações e os respectivos resultados tabulares permanecem disponíveis no notebook.
+
 ## Autor
 
 Diogo Bobsin
